@@ -10,10 +10,3 @@
 <p/>
 <hr>
 
-
-<p align="center">
-
-<img  src="https://fontmeme.com/permalink/221017/86b489348a0fbd6e5395f1e5d9af95cb.png" alt="reflection-effect" border="0"  >
-
-<p/>
-
