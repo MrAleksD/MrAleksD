@@ -17,29 +17,3 @@
 
 <p/>
 
-```
-The Art of conscience
-│   README.md
-│   .secret.txt    
-│   Hardware.elf
-|   Software.dat
-The Art of software
-└───particular_set_of_skills
-│   │   main.c
-│   │   main.cpp
-|   |   sssh.py
-│   │
-│   └─── secret_folder
-│       │   77_68_6F_5F_61_6D_5F_69.dat
-│       │   YSBDUFUgaXMgbGl0ZXJhbGx5IGEgcm9jayB0aGF0IHdlIHRyaWNrZWQgaW50byB0aGlua2luZwo=.txt
-The Art of Hardware
-│   README.md
-│   secret.txt    
-└───i_will_find_you
-│   | top.vhd
-│   | top.vht
-│   └─── tools
-│       | Altera Quartus
-│       | STM32
-|       | Electronics
-```
